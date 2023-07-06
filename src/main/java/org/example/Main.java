@@ -21,7 +21,7 @@ public class Main {
 
         System.out.println("digite la edad del primer samurai:");
         samurai.setEdad(entrada.nextInt());
-       
+
 
 
 
